@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d5faba1418e4a11001e954427913baa8" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_887813_mlm_pin_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-01-18 16:52:06</sys_created_on>
+            <sys_id>1dfaba14c8e4a1109c9af9fb3027f7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="99faba1400e4a110b3df98d2a5f782a8">d5faba1418e4a11001e954427913baa8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-01-18 16:52:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-01-18 16:52:06</sys_created_on>
+            <sys_id>9dfaba1472e4a110e7e1ec46f9ddb7a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="99faba1400e4a110b3df98d2a5f782a8">d5faba1418e4a11001e954427913baa8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-01-18 16:52:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-01-18 16:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5faba1418e4a11001e954427913baa8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+            <sys_update_name>sys_ui_section_d5faba1418e4a11001e954427913baa8</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-01-18 16:52:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_887813_mlm_pin_0)" name="custom_portal_approval_x_887813_mlm_pin_0">99faba1400e4a110b3df98d2a5f782a8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="MLM Pink Support Services">05cf54f52fa46110011d5fd92799b65e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 00:00:52</sys_created_on>
+        <sys_id>d97305792f286110011d5fd92799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MLM Pink Support Services.Any User</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d97305792f286110011d5fd92799b694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 00:00:52</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

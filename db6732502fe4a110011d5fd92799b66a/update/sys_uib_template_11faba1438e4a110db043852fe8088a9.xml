@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-left-and-right-sidebar.svg">b57f0e0877311010d99bbc3f681061c9</image>
+        <label>Portal Centered Column with Sidebars</label>
+        <macroponent display_value="Fixed Width One-Four-One">15faba1471e4a1100b32275b6779daa9</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 16:52:10</sys_created_on>
+        <sys_id>11faba1438e4a110db043852fe8088a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Centered Column with Sidebars</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sys_uib_template_11faba1438e4a110db043852fe8088a9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 16:52:10</sys_updated_on>
+        <type>layout</type>
+    </sys_uib_template>
+</record_update>

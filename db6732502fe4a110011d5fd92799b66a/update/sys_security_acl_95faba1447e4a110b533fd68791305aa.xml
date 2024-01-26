@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>ACL for Data broker: Content set - Related items list</description>
+        <name>15faba14d5e4a110a96adcd76af231aa</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 16:52:09</sys_created_on>
+        <sys_id>95faba1447e4a110b533fd68791305aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15faba14d5e4a110a96adcd76af231aa</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sys_security_acl_95faba1447e4a110b533fd68791305aa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 16:52:09</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

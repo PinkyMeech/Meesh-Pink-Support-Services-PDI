@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="MLM Pink Support Services">05cf54f52fa46110011d5fd92799b65e</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-22 21:53:17</sys_created_on>
+        <sys_id>dc46e0bd2fa46110011d5fd92799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.MLM Pink Support Services</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dc46e0bd2fa46110011d5fd92799b6a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-22 21:53:17</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</application>
+        <file_path/>
+        <instance_id>2bd0676cdbc2df080e785d00cf961934</instance_id>
+        <instance_name>dev58892</instance_name>
+        <name>sc_cat_item_catalog_dc46e0bd2fa46110011d5fd92799b6a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="MLM Pink Support Services">05cf54f52fa46110011d5fd92799b65e</sc_cat_item><sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-22 21:53:17</sys_created_on><sys_id>dc46e0bd2fa46110011d5fd92799b6a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resources.MLM Pink Support Services</sys_name><sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package><sys_policy/><sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope><sys_update_name>sc_cat_item_catalog_dc46e0bd2fa46110011d5fd92799b6a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-22 21:53:17</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1489166154</payload_hash>
+        <record_name>Resources.MLM Pink Support Services</record_name>
+        <reverted_from/>
+        <source>9b6732502fe4a110011d5fd92799b66c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-22 21:53:17</sys_created_on>
+        <sys_id>e446e0bd2fa46110011d5fd92799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185db78ae5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-22 21:53:17</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>6c46e0bd58a461107aa13c5d506411a4</update_guid>
+        <update_guid_history>6c46e0bd58a461107aa13c5d506411a4:-1489166154</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Resources.MLM Pink Support Services">e4296c312fe46110011d5fd92799b6e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-22 22:05:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>542e1ee7565140b0baadabfd791a8900</sys_id>
+        <sys_metadata>dc46e0bd2fa46110011d5fd92799b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.MLM Pink Support Services</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_parent display_value="MLM Pink Support Services">05cf54f52fa46110011d5fd92799b65e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_scope_delete display_value="">3175cfc0762640e88dad02c3a4201c84</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_dc46e0bd2fa46110011d5fd92799b6a2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_dc46e0bd2fa46110011d5fd92799b6a2">e446e0bd2fa46110011d5fd92799b6a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-22 22:05:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

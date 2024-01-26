@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sp_portal display_value="MLM PINK SUPPORT SERVICES">9d035ccf2fac2110011d5fd92799b672</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 21:04:21</sys_created_on>
+        <sys_id>07a7412b2f742110011d5fd92799b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.MLM PINK SUPPORT SERVICES</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_07a7412b2f742110011d5fd92799b6f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-09 21:04:21</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2024-01-07 03:23:19</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 22:51:23</sys_created_on>
+        <sys_id>9d2d71022fa02110011d5fd92799b65f</sys_id>
+        <sys_mod_count>36</sys_mod_count>
+        <sys_name>d5AvjcG_SQS6UDMB8nUxqn:APA91bF1jkG4CL2hEfbf0XHnCg8u36t8xwzCVwMrLGb9E7zc4_vVBdRBzTMwb4br7pXy89uXCXMlVcHNEohIPG8Y0xN9XczkgdxngkUenQZCT-1rvubOcRSx1Pse-OOJww1MFM9zVv5G</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_9d2d71022fa02110011d5fd92799b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 03:23:19</sys_updated_on>
+        <sys_user_id display_value="Meesh Pink  Support Services">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>d5AvjcG_SQS6UDMB8nUxqn:APA91bF1jkG4CL2hEfbf0XHnCg8u36t8xwzCVwMrLGb9E7zc4_vVBdRBzTMwb4br7pXy89uXCXMlVcHNEohIPG8Y0xN9XczkgdxngkUenQZCT-1rvubOcRSx1Pse-OOJww1MFM9zVv5G</token>
+    </sys_push_notif_app_install>
+</record_update>

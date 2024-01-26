@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Unique Hands-On Professional Services">5ea309792f286110011d5fd92799b666</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-26 19:55:37</sys_created_on>
+        <sys_id>40b13c0f2f206110011d5fd92799b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Unique Hands-On Professional Services</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_40b13c0f2f206110011d5fd92799b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-26 19:55:37</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</application>
+        <file_path/>
+        <instance_id>2bd0676cdbc2df080e785d00cf961934</instance_id>
+        <instance_name>dev58892</instance_name>
+        <name>sc_cat_item_catalog_40b13c0f2f206110011d5fd92799b6ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Unique Hands-On Professional Services">5ea309792f286110011d5fd92799b666</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-26 19:55:37</sys_created_on><sys_id>40b13c0f2f206110011d5fd92799b6ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Unique Hands-On Professional Services</sys_name><sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package><sys_policy/><sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope><sys_update_name>sc_cat_item_catalog_40b13c0f2f206110011d5fd92799b6ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-26 19:55:37</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1305970761</payload_hash>
+        <record_name>Service Catalog.Unique Hands-On Professional Services</record_name>
+        <reverted_from/>
+        <source>9b6732502fe4a110011d5fd92799b66c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-26 19:55:38</sys_created_on>
+        <sys_id>c8b13c0f2f206110011d5fd92799b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185efa666b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-26 19:55:38</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>40b13c0f9f206110ccf99fe80e5f7af1</update_guid>
+        <update_guid_history>40b13c0f9f206110ccf99fe80e5f7af1:1305970761</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Unique Hands-On Professional Services">e4573c432f606110011d5fd92799b686</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-26 20:20:15</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>85464727d2984c479048167edf30ca09</sys_id>
+        <sys_metadata>40b13c0f2f206110011d5fd92799b6ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Unique Hands-On Professional Services</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_parent display_value="Unique Hands-On Professional Services">5ea309792f286110011d5fd92799b666</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_scope_delete display_value="">3175cfc0762640e88dad02c3a4201c84</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_40b13c0f2f206110011d5fd92799b6ef</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_40b13c0f2f206110011d5fd92799b6ef">c8b13c0f2f206110011d5fd92799b6f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-26 20:20:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

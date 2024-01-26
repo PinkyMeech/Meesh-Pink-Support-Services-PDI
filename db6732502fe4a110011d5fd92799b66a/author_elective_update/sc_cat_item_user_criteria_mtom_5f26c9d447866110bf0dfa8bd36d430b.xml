@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="PINK BLING MY RIDE">2429dc5847c26110bf0dfa8bd36d43ff</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 21:56:02</sys_created_on>
+        <sys_id>5f26c9d447866110bf0dfa8bd36d430b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PINK BLING MY RIDE.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5f26c9d447866110bf0dfa8bd36d430b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 21:56:02</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</application>
+        <file_path/>
+        <instance_id>2bd0676cdbc2df080e785d00cf961934</instance_id>
+        <instance_name>dev58892</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_5f26c9d447866110bf0dfa8bd36d430b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="PINK BLING MY RIDE">2429dc5847c26110bf0dfa8bd36d43ff</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-02 21:56:02</sys_created_on><sys_id>5f26c9d447866110bf0dfa8bd36d430b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PINK BLING MY RIDE.Users with 'Admin' Role</sys_name><sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package><sys_policy/><sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_5f26c9d447866110bf0dfa8bd36d430b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-02 21:56:02</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-724918006</payload_hash>
+        <record_name>PINK BLING MY RIDE.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>9b6732502fe4a110011d5fd92799b66c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 21:56:02</sys_created_on>
+        <sys_id>df26c9d447866110bf0dfa8bd36d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18743f85be40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 21:56:02</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>5726c9d4ce8661104a3e1b4a0899a10f</update_guid>
+        <update_guid_history>5726c9d4ce8661104a3e1b4a0899a10f:-724918006</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PINK BLING MY RIDE.Users with 'Admin' Role">85b6051847866110bf0dfa8bd36d4340</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 21:58:20</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>487e6f0c7d1e47649b04634f70607c10</sys_id>
+        <sys_metadata>5f26c9d447866110bf0dfa8bd36d430b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PINK BLING MY RIDE.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_scope_delete display_value="">3175cfc0762640e88dad02c3a4201c84</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5f26c9d447866110bf0dfa8bd36d430b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_5f26c9d447866110bf0dfa8bd36d430b">df26c9d447866110bf0dfa8bd36d430f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 21:58:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

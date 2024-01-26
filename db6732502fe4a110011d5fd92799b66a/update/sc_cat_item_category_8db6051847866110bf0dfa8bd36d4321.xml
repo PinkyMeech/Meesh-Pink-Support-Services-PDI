@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="PINK BLING UR RIDE!!">2429dc5847c26110bf0dfa8bd36d43ff</sc_cat_item>
+        <sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-02 21:58:20</sys_created_on>
+        <sys_id>8db6051847866110bf0dfa8bd36d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.PINK BLING MY RIDE</sys_name>
+        <sys_package display_value="MLM PINK SUPPORT SERVICES" source="x_887813_mlm_pin_0">db6732502fe4a110011d5fd92799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MLM PINK SUPPORT SERVICES">db6732502fe4a110011d5fd92799b66a</sys_scope>
+        <sys_update_name>sc_cat_item_category_8db6051847866110bf0dfa8bd36d4321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-02 21:58:20</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
